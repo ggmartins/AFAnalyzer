@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+<!-- AppFlow Analyzer INI file --> 
+
+
+<AFAnalyzer_INI>
+	<FLOWLIST size="9">
+		<COLUMN name="Select" ind="1" width="42">Checkbox</COLUMN>
+		<COLUMN name="NumPkts" ind="2" width="60">Field</COLUMN>
+		<COLUMN name="Tuple" ind="3" width="280">Field</COLUMN>
+		<COLUMN name="Stack" ind="4" width="60">Field</COLUMN>
+		<COLUMN name="Signature" ind="5" width="60">Field</COLUMN>
+		<COLUMN name="Payload Start" ind="6" width="100">Field</COLUMN>
+		<COLUMN name="Size" ind="7" width="60">Field</COLUMN>
+		<COLUMN name="Complete" ind="8" width="60">Field</COLUMN>
+		<COLUMN name="Type" ind="9" width="60">Field</COLUMN>
+	</FLOWLIST> 
+</AFAnalyzer_INI>
+
+

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--AppFlow Analyzer INI file-->
+<AFAnalyzer_INI>
+    <FLOWLIST size="12">
+        <COLUMN name="Select" ind="1" width="42">Checkbox</COLUMN>
+        <COLUMN name="NumPkts" ind="2" width="60">Field</COLUMN>
+        <COLUMN name="IPSrc" ind="3" width="150">Field</COLUMN>
+        <COLUMN name="PortSrc" ind="4" width="60">Field</COLUMN>
+        <COLUMN name="IPDst" ind="5" width="150">Field</COLUMN>
+        <COLUMN name="PortDst" ind="6" width="60">Field</COLUMN>
+        <COLUMN name="Stack" ind="7" width="60">Field</COLUMN>
+        <COLUMN name="Signature" ind="8" width="60">Field</COLUMN>
+        <COLUMN name="PayloadStart" ind="9" width="100">Field</COLUMN>
+        <COLUMN name="Size" ind="10" width="60">Field</COLUMN>
+        <COLUMN name="Complete" ind="11" width="60">Field</COLUMN>
+        <COLUMN name="Type" ind="12" width="60">Field</COLUMN>
+    </FLOWLIST>
+</AFAnalyzer_INI>
